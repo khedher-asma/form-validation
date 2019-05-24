@@ -1,0 +1,28 @@
+#styled-container{
+    background-image: linear-gradient(to right, #593443, #183057);
+    background-color: #563d7c;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+.form-signin {
+    width: 100%;
+    max-width: 420px;
+    padding: 30px;
+    margin: 0 auto;
+}
+.empty-field,.btn-style{
+    background-color: #2a2a3c;
+    border-color: black;
+    color: white;
+}
+.btn-style{
+    margin-top: 10px;
+}
+.lab-style{
+    color: white;
+}
+.empty-field:focus,.btn-style:focus{
+    background-color: #2a2a3c;
+    color: white;
+}
